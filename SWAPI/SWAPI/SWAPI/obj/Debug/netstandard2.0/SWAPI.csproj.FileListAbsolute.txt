@@ -1,0 +1,13 @@
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\obj\Debug\netstandard2.0\SWAPI.csproj.CoreCompileInputs.cache
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\obj\Debug\netstandard2.0\SWAPI.AssemblyInfoInputs.cache
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\obj\Debug\netstandard2.0\SWAPI.AssemblyInfo.cs
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\bin\Debug\netstandard2.0\SWAPI.deps.json
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\bin\Debug\netstandard2.0\SWAPI.dll
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\bin\Debug\netstandard2.0\SWAPI.pdb
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\obj\Debug\netstandard2.0\SWAPI.csprojAssemblyReference.cache
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\obj\Debug\netstandard2.0\SWAPI.dll
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\obj\Debug\netstandard2.0\SWAPI.pdb
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\obj\Debug\netstandard2.0\Views\RootPage.xaml.g.cs
+C:\Users\jonathan\source\repos\SWAPI\SWAPI\SWAPI\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs

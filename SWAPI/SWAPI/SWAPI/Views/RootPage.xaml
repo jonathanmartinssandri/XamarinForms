@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SWAPI.Views.RootPage"
+             Title="{Binding Title}">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label Text="{ Binding Movies.title, StringFormat='Title -> {0:X2}' }"/>
+                <Label Text="{ Binding Movies.episode_id, StringFormat='Episode -> {0:X2}' }"/>
+                <Label Text="{ Binding Movies.director, StringFormat='Director -> {0:X2}' }"/>
+                <Label Text="{ Binding Movies.producer, StringFormat='Producer -> {0:X2}' }"/>
+                <Label Text="{ Binding Movies.release_date, StringFormat='Release Date -> {0:X2}' }"/>
+                <Label Text="{ Binding Movies.opening_crawl, StringFormat='Description -> {0:X2}' }"/>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
